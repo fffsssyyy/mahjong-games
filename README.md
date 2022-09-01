@@ -1,2 +1,0 @@
-# mahjong-games
-mahjong-games
